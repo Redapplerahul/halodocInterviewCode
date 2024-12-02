@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="suite">
+    <test name="Test1" verbose="2">
+        <classes>
+
+            <class name="TestCases.TestCaseSuite"/>
+
+        </classes>
+    </test>
+</suite>
